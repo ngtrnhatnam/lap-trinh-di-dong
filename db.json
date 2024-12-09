@@ -1,27 +1,32 @@
-[
-    {
-        "id": 1,
-        "title": "SS1",
-        "body": "Super Saiyan 1."
-    },
-    {
-        "id": 2,
-        "title": "SS2",
-        "body": "Super Saiyan 2."
-    },
-    {
-        "id": 3,
-        "title": "SS3",
-        "body": "Super Saiyan 3."
-    },
-    {
-        "id": 4,
-        "title": "SSGSS",
-        "body": "Super Saiyan God."
-    },
-    {
-        "id": 5,
-        "title": "UI",
-        "body": "Ultra Instinct."
-    }
-]
+{
+  "posts": [
+    	    {
+                "id": 1,
+                "title": "SS1",
+                "body": "Super Saiyan 1."
+            },
+            {
+                "id": 2,
+                "title": "SS2",
+                "body": "Super Saiyan 2."
+            },
+            {
+                "id": 3,
+                "title": "SS3",
+                "body": "Super Saiyan 3."
+            },
+            {
+                "id": 4,
+                "title": "SSGSS",
+                "body": "Super Saiyan God."
+            },
+            {
+                "id": 5,
+                "title": "UI",
+                "body": "Ultra Instinct."
+            }
+	],
+  "profile": {
+    "name": "typicode"
+  }
+}
